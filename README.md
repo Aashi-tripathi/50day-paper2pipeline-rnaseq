@@ -11,9 +11,9 @@ bioinformatics pipelines using Python.
 
 ### Current Status
 - Day 1: Project setup, Python environment, Git & GitHub configuration - DONE
-- Day 2: Understanding RNA-seq Data
-  Count matrices: rows = genes, columns = samples, values = read counts
-  Metadata: sample conditions, replicates, and other experimental details
-  Connecting paper descriptions to actual data objects
+- Day 2: Understanding RNA-seq Data|
+  Count matrices: rows = genes, columns = samples, values = read counts|
+  Metadata: sample conditions, replicates, and other experimental details|
+  Connecting paper descriptions to actual data objects|
   Small Python experiment to visualize count matrix structure
 
