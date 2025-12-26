@@ -11,5 +11,12 @@ bioinformatics pipelines using Python.
 
 ### Current Status
 - Day 1: Project setup, Python environment, Git & GitHub configuration - DONE
-- Day 2: Understanding scRNA-seq data structures
+- Day 2: Understanding RNA-seq Data
+  Today’s focus was on the core structure of RNA-seq data:
+  Count matrices: rows = genes, columns = samples, values = read counts
+  Metadata: sample conditions, replicates, and other experimental details
+  Connecting paper descriptions to actual data objects
+  Small Python experiment to visualize count matrix structure
+
+
 - Day 3: Conceptual understanding of scRNA-seq data structures
