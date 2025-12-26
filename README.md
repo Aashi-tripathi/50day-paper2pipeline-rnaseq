@@ -11,21 +11,3 @@ bioinformatics pipelines using Python.
 
 ### Current Status
 - Day 1: Project setup, Python environment, Git & GitHub configuration - DONE
-- Day 3 : Understanding scRNA-seq Data Structures
-
-Focus:
-- Conceptual understanding of single-cell RNA-seq
-- How raw sequencing data is transformed into:
-  - Gene expression count matrix
-  - Cell-level and sample-level metadata
-
-Key topics covered:
-- Difference between bulk RNA-seq and single-cell RNA-seq
-- scRNA-seq experimental workflow
-- Role of barcodes and UMIs
-- What a count matrix represents biologically
-- What metadata contains and why it matters in analysis
-
-Outcome:
-- Built a strong foundation to interpret scRNA-seq methods sections
-- Prepared to map research papers to computational pipelines
