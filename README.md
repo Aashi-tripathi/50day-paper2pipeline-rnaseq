@@ -11,3 +11,5 @@ bioinformatics pipelines using Python.
 
 ### Current Status
 - Day 1: Project setup, Python environment, Git & GitHub configuration - DONE
+- Day 2: Understanding scRNA-seq data structures
+- Day 3: Conceptual understanding of scRNA-seq data structures
