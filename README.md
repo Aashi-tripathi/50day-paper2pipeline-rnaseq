@@ -37,7 +37,7 @@ Outcome:
 - Built a strong foundation to interpret scRNA-seq methods sections
 - Prepared to map research papers to computational pipelines
 
-- Day 4 – Dissecting a real scRNA-seq research paper for primary understanding 
+- DAY 4 – Dissecting a real scRNA-seq research paper for primary understanding 
 
 Focus:
 - Learning how scRNA-seq studies are structured
