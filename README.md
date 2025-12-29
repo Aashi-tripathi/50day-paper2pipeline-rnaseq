@@ -36,3 +36,22 @@ Key topics covered:
 Outcome:
 - Built a strong foundation to interpret scRNA-seq methods sections
 - Prepared to map research papers to computational pipelines
+
+- Day 4 – Dissecting a real scRNA-seq research paper for primary understanding 
+
+Focus:
+- Learning how scRNA-seq studies are structured
+- Understanding how experimental methods translate into data objects
+
+Tasks:
+- Selected a representative scRNA-seq research paper
+- Analyzed the abstract and biological question
+- Carefully read the Methods section with focus on:
+  - scRNA-seq platform
+  - sequencing and alignment strategy
+  - generation of count matrix and metadata
+- Connected paper figures to underlying data structures
+
+Outcome:
+- Gained confidence in reading scRNA-seq papers from a pipeline perspective
+- Identified on primary level , how raw data in public repositories relates to published results
