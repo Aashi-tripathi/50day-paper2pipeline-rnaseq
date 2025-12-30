@@ -10,8 +10,9 @@ bioinformatics pipelines using Python.
 - Learn reproducible research practices (Git, documentation)
 
 ### Current Status
-- Day 1: Project setup, Python environment, Git & GitHub configuration - DONE
-- Day 2: Understanding RNA-seq Data
+Day 1: Project setup, Python environment, Git & GitHub configuration - DONE
+
+Day 2: Understanding RNA-seq Data
   Today’s focus was on the core structure of RNA-seq data:
   Count matrices: rows = genes, columns = samples, values = read counts
   Metadata: sample conditions, replicates, and other experimental details
@@ -19,7 +20,7 @@ bioinformatics pipelines using Python.
   Small Python experiment to visualize count matrix structure
 
 
-- Day 3: Conceptual understanding of scRNA-seq data structures
+Day 3: Conceptual understanding of scRNA-seq data structures
   Focus:
 - Conceptual understanding of single-cell RNA-seq
 - How raw sequencing data is transformed into:
@@ -37,7 +38,7 @@ Outcome:
 - Built a strong foundation to interpret scRNA-seq methods sections
 - Prepared to map research papers to computational pipelines
 
-- DAY 4 – Dissecting a real scRNA-seq research paper for primary understanding 
+DAY 4 – Dissecting a real scRNA-seq research paper for primary understanding 
 
 Focus:
 - Learning how scRNA-seq studies are structured
@@ -56,7 +57,7 @@ Outcome:
 - Gained confidence in reading scRNA-seq papers from a pipeline perspective
 - Identified on primary level , how raw data in public repositories relates to published results
 
-- DAY 5 – Dataset Selection 
+DAY 5 – Dataset Selection 
 
 Chosen paper:
 Single-cell RNA sequencing reveals the molecular features of peripheral blood immune cells in children, adults and centenarians
