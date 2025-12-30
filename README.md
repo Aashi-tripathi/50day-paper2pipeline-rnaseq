@@ -55,3 +55,29 @@ Tasks:
 Outcome:
 - Gained confidence in reading scRNA-seq papers from a pipeline perspective
 - Identified on primary level , how raw data in public repositories relates to published results
+
+- DAY 5 – Dataset Selection 
+
+Chosen paper:
+Single-cell RNA sequencing reveals the molecular features of peripheral blood immune cells in children, adults and centenarians
+
+Dataset:
+GEO accession: GSE206295
+
+Study type:
+- scRNA-seq
+- Platform: 10x Genomics
+- Tissue: Peripheral Blood (PBMC)
+- Organism: Human
+
+Goal:
+To understand immune cell heterogeneity across age groups
+and reproduce initial steps of a standard scRNA-seq pipeline.
+
+This day combines dataset selection and first inspection.
+• Selected immunology scRNA-seq paper (PBMC)
+• Downloaded and reviewed paper methods
+• Explored GEO accession GSE206295
+• Identified available raw and processed files
+• Planned pipeline starting point
+
